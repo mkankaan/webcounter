@@ -1,5 +1,6 @@
-geckodriver-*.log
-selenium-screenshot-*
+src/__pycache__
+geckodriver*
+selenium-screenshot*
 log.html
 output.xml
 report.html
