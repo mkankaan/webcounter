@@ -1,0 +1,5 @@
+geckodriver-*.log
+selenium-screenshot-*
+log.html
+output.xml
+report.html
